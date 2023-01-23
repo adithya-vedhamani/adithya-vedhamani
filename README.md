@@ -14,10 +14,10 @@
 
 ---
 
-<h1>
-  Hey Guys! Adithya Here... Welcome to my GitHub
+<h3>
+   Welcome to my GitHub !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" width="600" height="300"/>
