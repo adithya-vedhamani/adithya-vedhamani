@@ -1,11 +1,10 @@
-<h1 align="center">Hey👋, I'm Adithya Vedhamani</h1>
+[tarrget.zip](https://github.com/adithya-vedhamani/adithya-vedhamani/files/12734312/tarrget.zip)[SIH2023 - final list.xlsx](https://github.com/adithya-vedhamani/adithya-vedhamani/files/12734305/SIH2023.-.final.list.xlsx)<h1 align="center">Hey👋, I'm Adithya Vedhamani</h1>
 <h3 align="center">Full Stack Developer | Madras Guy</h3>
 
 
 
-<div id="header" align="center">
-![WhatsApp_Image_2023-09-27_at_09 30 33-removebg-preview](https://github.com/adithya-vedhamani/adithya-vedhamani/assets/73640313/df84ded5-2910-4ad5-81ac-9b01565a023e)
-
+<div align="center">
+  <img src="https://github.com/adithya-vedhamani/adithya-vedhamani/assets/73640313/0172c817-fef3-4aca-b7c7-4b5d68e8a9ae" alt="Your Image Alt Text">
 </div>
 
 
