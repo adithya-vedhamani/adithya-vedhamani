@@ -1,4 +1,4 @@
-[tarrget.zip](https://github.com/adithya-vedhamani/adithya-vedhamani/files/12734312/tarrget.zip)[SIH2023 - final list.xlsx](https://github.com/adithya-vedhamani/adithya-vedhamani/files/12734305/SIH2023.-.final.list.xlsx)<h1 align="center">Hey👋, I'm Adithya Vedhamani</h1>
+<h1 align="center">Hey👋, I'm Adithya Vedhamani</h1>
 <h3 align="center">Full Stack Developer | Madras Guy</h3>
 
 
