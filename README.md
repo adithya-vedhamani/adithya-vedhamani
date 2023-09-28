@@ -3,9 +3,7 @@
 
 
 
-<div align="center">
-  <img src="https://github.com/adithya-vedhamani/adithya-vedhamani/assets/73640313/0172c817-fef3-4aca-b7c7-4b5d68e8a9ae" alt="Your Image Alt Text">
-</div>
+
 
 
 <div id="badges">
