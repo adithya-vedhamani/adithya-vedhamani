@@ -2,8 +2,6 @@
 <h3 align="center">Full Stack Developer | Madras Guy</h3>
 
 
-[![An image of @adithyavedhamani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithyavedhamani)](https://holopin.io/@adithyavedhamani)
-
 
 
 <div id="badges">
