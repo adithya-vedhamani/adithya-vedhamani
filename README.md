@@ -1,8 +1,14 @@
-<h1 align="center">Hey👋, I'm Adithya Vedhamani</h1>
-<h3 align="center">Full Stack Developer | Madras Guy</h3>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=F7F7F7&random=false&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Adithya+Vedhamani;Full+Stack+Developer%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%92%BB;Passionate+Hackathon+Enthusiast%F0%9F%91%BE;Freelancer+%7C+4%2B+years+of+experience;Let's+Collab+to+Contribute+to+our+%F0%9F%8C%90+)](https://git.io/typing-svg)
 
 
 
+<div id="badges">
+ <a href="mailto:adithyavedhamani@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/adithya-vedhamani-3130a521b">
@@ -13,7 +19,6 @@
 <div>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
-
 ---
 
 <h2>
