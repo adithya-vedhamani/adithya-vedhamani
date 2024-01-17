@@ -4,12 +4,9 @@
 </div>
 
 <div align="center">
-<h2>
-   Welcome to my GitHub 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>    
-    </h2>
 
-   <h4> Let's Collab to Contribute to our Community 🌐</h4>
+
+   <h2> Welcome to my GitHub 🙋🏽‍♂️ | Let's Collab to Contribute to our Community 🌐</h2>
  
  <h2 align="center"> 🔥 About Me 🔥 </h2>
 
