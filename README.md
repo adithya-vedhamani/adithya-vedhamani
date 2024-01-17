@@ -5,16 +5,16 @@
 
 <div align="center">
 <h2>
-   Welcome to my GitHub  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  | Let's Collab to Contribute to our Community 🌐 <br>
-   
- </h2>
+   Welcome to my GitHub 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>    
+    </h2>
 
+   <h4> Let's Collab to Contribute to our Community 🌐</h4>
  
  <h2 align="center"> 🔥 About Me 🔥 </h2>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Salsa&size=27&duration=3000&pause=500&color=FFD700&random=false&width=435&lines=Hey!+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F+I'm+Adithya+Vedhamani;Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+;Open+Source+Contributor+%F0%9F%92%BB;Passionate+Hackathon+Enthusiast%F0%9F%91%BE;Freelancer+%F0%9F%92%B8+%7C+4%2B+Years+of+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Salsa&size=27&duration=3000&pause=500&color=FFD700&random=false&width=435&lines=Hey!+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F+I'm+Adithya+Vedhamani;Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+;Open+Source+Contributor+%F0%9F%92%BB;Passionate+Hackathon+Enthusiast%F0%9F%91%BE;Freelancer%F0%9F%92%B8+%7C+4%2B+Years+Experience)](https://git.io/typing-svg)
 
  <a href="mailto:adithyavedhamani@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
