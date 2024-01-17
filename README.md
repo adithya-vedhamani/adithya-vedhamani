@@ -10,8 +10,11 @@
       🙋🏽‍♂️ Let's Collab to Contribute to our Community 🌐</h2>
  
  <h2 align="center"> < About Me 👽 > </h2>
-    
-![WhatsApp_Image_2024-01-17_at_21 27 32__1_-removebg-preview](https://github.com/adithya-vedhamani/adithya-vedhamani/assets/73640313/e42a1f8c-4b71-4279-95ab-f38d1121e4fa)
+
+ 
+
+
+![395c95bc-73b2-4392-a326-9ad689937516-removebg-preview](https://github.com/adithya-vedhamani/adithya-vedhamani/assets/73640313/871dbfc9-e3ee-4ed4-8315-fa4cb5dfb966)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Salsa&size=27&duration=3000&pause=500&color=FFD700&random=false&width=435&lines=Hey!+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F+I'm+Adithya+Vedhamani;Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+;Open+Source+Contributor+%F0%9F%92%BB;Passionate+Hackathon+Enthusiast%F0%9F%91%BE;Freelancer%F0%9F%92%B8+%7C+4%2B+Years+Experience)](https://git.io/typing-svg)
