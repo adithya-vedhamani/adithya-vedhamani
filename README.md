@@ -1,12 +1,13 @@
 
-<div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</div>
-
 <div align="center">
 
 
 ![Black Minimalist Corporate Professional Profile LinkedIn Banner](https://github.com/adithya-vedhamani/adithya-vedhamani/assets/73640313/90a53815-bb47-4adf-aa5b-16c12b6685c8)
+
+
+<div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
 
  
  <h2 align="center"> < About Me 👽 > </h2>
