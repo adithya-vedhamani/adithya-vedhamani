@@ -33,9 +33,9 @@
 <h2 align="center"> < ⚒️ Languages | Frameworks | Version Control | Devops | Tools ⚒️ > </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,java,dart" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,django,vue,express,flutter,flask,figma" /><br>
-   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,googlecloud,ansible" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,dart" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,django,express,flutter,flask,figma" /><br>
+   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws" /><br>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,arduino,raspberrypi,opencv,tensorflow" /><br>
 </div>
 
